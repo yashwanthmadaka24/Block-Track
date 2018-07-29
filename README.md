@@ -3,6 +3,7 @@
 A basic supply chain management system made with Hyperledger blockchain. 
 
 ## A basic product flow:
+![Product Flow](product_flow.png)
 Manufacturer  -->  Distributor  -->  Retailer  -->  Customer
 
 
